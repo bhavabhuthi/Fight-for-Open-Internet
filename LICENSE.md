@@ -1,23 +1,6 @@
 
 # Creative Commons Attribution Share Alike 4.0 International
 
-### Permissions
-    Commercial use
-    Distribution
-    Modification
-    Private use
-    
-### Conditions
-    License and copyright notice
-    Same license
-    State changes
-
-### Limitations
-    Liability
-    Patent use
-    Trademark use
-    Warranty
-
 =======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
